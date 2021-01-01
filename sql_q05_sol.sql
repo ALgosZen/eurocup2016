@@ -1,0 +1,1 @@
+SELECT count(*) FROM player_booked where play_Schedule = 'ST';
